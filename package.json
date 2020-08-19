@@ -1,0 +1,25 @@
+{
+  "name": "vue-dev-mixins",
+  "version": "1.0.0",
+  "description": "A Vue mixins for developers",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/darkfriend/vue-dev-mixins.git"
+  },
+  "keywords": [
+    "mixins",
+    "vue",
+    "darkfriend",
+    "helpers"
+  ],
+  "author": "darkfriend",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/darkfriend/vue-dev-mixins/issues"
+  },
+  "homepage": "https://github.com/darkfriend/vue-dev-mixins#readme",
+  "dependencies": {
+    "empty-lite": "^1.0.3"
+  }
+}
