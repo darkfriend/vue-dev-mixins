@@ -11,7 +11,7 @@ Installation
 ==
 
 You can install the package via npm:
-```shell script
+```
 npm i vue-dev-mixins -S
 ```
 
